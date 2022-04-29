@@ -22,13 +22,14 @@
 ![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&style=flat-square&labelColor=000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&labelColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&style=flat-square&labelColor=000)
 ![AntDesign](https://img.shields.io/badge/AntDesign-0170FE?logo=antdesign&style=flat-square&labelColor=000)
 ![Studys](https://img.shields.io/badge/Studys:-red?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&style=flat-square&labelColor=000)
 ![RXJS](https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000)
 
 <a href="https://github.com/reaink">
-  <img src="https://github-readme-stats.vercel.app/api?username=reaink&theme=vue&show_icons=true&count_private=true"  width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reaink&theme=vue&show_icons=true&layout=compact&count_private=true&line_height=31"  width="400" />
 </a>
 <a href="https://github.com/reaink">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaink&layout=compact&theme=vue" width="400" />
