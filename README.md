@@ -29,8 +29,8 @@
 ![RXJS](https://img.shields.io/badge/RXJS-B7178C?logo=ReactiveX&style=flat-square&labelColor=000)
 
 <a href="https://github.com/reaink">
-  <img src="https://github-readme-stats.vercel.app/api?username=reaink&theme=vue&show_icons=true&layout=compact&count_private=true&line_height=31"  width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reaink&theme=vue&show_icons=true&layout=compact&count_private=true&line_height=31&hide_border=true"  width="400" />
 </a>
 <a href="https://github.com/reaink">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaink&layout=compact&theme=vue" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaink&layout=compact&theme=vue&hide_border=true" width="400" />
 </a>
