@@ -10,9 +10,9 @@
 ## My Skills
 
 ![Lang](https://img.shields.io/badge/Lang:-red?style=flat-square)
-[![TypeScript][TypeScriptBadge]][TypeScriptHome]
-[![JavaScript][JavaScriptBadge]][JavaScriptHome]
-[![Nodejs][NodejsBadge]][NodejsHome]
+[![JS][TypeScriptBadge]][TypeScriptHome]
+[![TS][JavaScriptBadge]][JavaScriptHome]
+[![Node][NodejsBadge]][NodejsHome]
 
 ![Env](https://img.shields.io/badge/Env:-red?style=flat-square)
 [![NeoVim][NeoVimBadge]][NeoVimHome]
@@ -34,7 +34,7 @@
 [blog]: https://rea.ink
 [TypeScriptBadge]: https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&labelColor=000
 [TypeScriptHome]: https://www.typescriptlang.org
-[JavaScriptBadge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
+[JavaScriptBadge]: https://img.shields.io/badge/JS-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
 [JavaScriptHome]: https://tc39.es/ecma262
 [NodejsBadge]: https://img.shields.io/badge/Node.js-339933?logo=Node.js&style=flat-square&labelColor=000
 [NodejsHome]: https://nodejs.org
