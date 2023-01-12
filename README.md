@@ -1,20 +1,21 @@
-### Hi 👋
+# Hi 👋
 
-<p align="center">
-  <a href="https://rea.ink">Rea's Blog</a>
-</p>
+<a href="https://github.com/hellxz">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
+</a>
 
-<p align="center">清风皓月，光景常新。</p>
+- [Rea's Blog](blog)
+- 清风皓月，光景常新。
+
+## My Skills
 
 ![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
 [![TypeScript][TypeScriptBadge]][TypeScriptHome]
 [![JavaScript][JavaScriptBadge]][JavaScriptHome]
 [![Nodejs][NodejsBadge]][NodejsHome]
-![Studys][StudysBadge]
 [![Rust][RustBadge]][RustHome]
 
 ![Environment](https://img.shields.io/badge/Environment:-red?style=flat-square)
-[![VisualStudioCode][VisualStudioCodeBadge]][VisualStudioCodeHome]
 [![NeoVim][NeoVimBadge]][NeoVimHome]
 [![macOS][macOSBadge]][macOSHome]
 [![rime][rimeBadge]][rimeHome]
@@ -24,20 +25,11 @@
 [![Vite][ViteBadge]][ViteHome]
 [![Prisma][PrismaBadge]][PrismaHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
-![Studys][StudysBadge]
 [![React][ReactBadge]][ReactHome]
 [![RXJS][RXJSBadge]][RXJSHome]
 
-<a href="https://github.com/reaink">
-  <img src="https://github-readme-stats.vercel.app/api?username=reaink&theme=vue&show_icons=true&layout=compact&count_private=true&line_height=31&hide_border=true"  width="400" />
-</a>
-<a href="https://github.com/reaink">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaink&layout=compact&theme=vue&hide_border=true" width="400" />
-</a>
 
-
-
-[StudysBadge]: https://img.shields.io/badge/Studys:-red?style=flat-square
+[blog]: https://rea.ink
 [TypeScriptBadge]: https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&labelColor=000
 [TypeScriptHome]: https://www.typescriptlang.org
 [JavaScriptBadge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
