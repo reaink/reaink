@@ -21,10 +21,10 @@
 
 ![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
 [![Vuejs][VuejsBadge]][VuejsHome]
+[![React][ReactBadge]][ReactHome]
 [![Vite][ViteBadge]][ViteHome]
 [![Prisma][PrismaBadge]][PrismaHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
-[![React][ReactBadge]][ReactHome]
 
 ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
 [![Rust][RustBadge]][RustHome]
