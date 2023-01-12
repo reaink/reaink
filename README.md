@@ -9,13 +9,12 @@
 
 ## My Skills
 
-![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
+![Lang](https://img.shields.io/badge/Lang:-red?style=flat-square)
 [![TypeScript][TypeScriptBadge]][TypeScriptHome]
 [![JavaScript][JavaScriptBadge]][JavaScriptHome]
 [![Nodejs][NodejsBadge]][NodejsHome]
-[![Rust][RustBadge]][RustHome]
 
-![Environment](https://img.shields.io/badge/Environment:-red?style=flat-square)
+![Env](https://img.shields.io/badge/Env:-red?style=flat-square)
 [![NeoVim][NeoVimBadge]][NeoVimHome]
 [![macOS][macOSBadge]][macOSHome]
 [![rime][rimeBadge]][rimeHome]
@@ -26,6 +25,9 @@
 [![Prisma][PrismaBadge]][PrismaHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
 [![React][ReactBadge]][ReactHome]
+
+![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
+[![Rust][RustBadge]][RustHome]
 [![RXJS][RXJSBadge]][RXJSHome]
 
 
