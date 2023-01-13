@@ -1,8 +1,8 @@
-# Hi 👋
-
 <a href="https://github.com/hellxz">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
 </a>
+
+# Hi 👋
 
 - [Rea's Blog](blog)
 - 清风皓月，光景常新。
@@ -13,7 +13,6 @@
 [![JS][TypeScriptBadge]][TypeScriptHome]
 [![TS][JavaScriptBadge]][JavaScriptHome]
 [![Node][NodejsBadge]][NodejsHome]
-
 ![Env](https://img.shields.io/badge/Env:-red?style=flat-square)
 [![NeoVim][NeoVimBadge]][NeoVimHome]
 [![macOS][macOSBadge]][macOSHome]
@@ -25,7 +24,6 @@
 [![Vite][ViteBadge]][ViteHome]
 [![Prisma][PrismaBadge]][PrismaHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
-
 ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
 [![Rust][RustBadge]][RustHome]
 [![RXJS][RXJSBadge]][RXJSHome]
