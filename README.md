@@ -4,29 +4,35 @@
 
 # Hi 👋
 
+---
+
 - [Rea's Blog](blog)
 - 清风皓月，光景常新。
 
-## My Skills
+---
 
-![Lang](https://img.shields.io/badge/Lang:-red?style=flat-square)
-[![JS][TypeScriptBadge]][TypeScriptHome]
-[![TS][JavaScriptBadge]][JavaScriptHome]
-[![Node][NodejsBadge]][NodejsHome]
-![Env](https://img.shields.io/badge/Env:-red?style=flat-square)
-[![NeoVim][NeoVimBadge]][NeoVimHome]
-[![macOS][macOSBadge]][macOSHome]
-[![rime][rimeBadge]][rimeHome]
+<div align="center">
+ 
+  ![Lang](https://img.shields.io/badge/Lang:-red?style=flat-square)
+  [![JS][TypeScriptBadge]][TypeScriptHome]
+  [![TS][JavaScriptBadge]][JavaScriptHome]
+  [![Node][NodejsBadge]][NodejsHome]
+  ![Env](https://img.shields.io/badge/Env:-red?style=flat-square)
+  [![NeoVim][NeoVimBadge]][NeoVimHome]
+  [![macOS][macOSBadge]][macOSHome]
+  [![rime][rimeBadge]][rimeHome]
 
-![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
-[![Vuejs][VuejsBadge]][VuejsHome]
-[![React][ReactBadge]][ReactHome]
-[![Vite][ViteBadge]][ViteHome]
-[![Prisma][PrismaBadge]][PrismaHome]
-[![AntDesign][AntDesignBadge]][AntDesignHome]
-![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
-[![Rust][RustBadge]][RustHome]
-[![RXJS][RXJSBadge]][RXJSHome]
+  ![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
+  [![Vuejs][VuejsBadge]][VuejsHome]
+  [![React][ReactBadge]][ReactHome]
+  [![Vite][ViteBadge]][ViteHome]
+  [![Prisma][PrismaBadge]][PrismaHome]
+  [![AntDesign][AntDesignBadge]][AntDesignHome]
+  ![Study](https://img.shields.io/badge/Study:-red?style=flat-square)
+  [![Rust][RustBadge]][RustHome]
+  [![RXJS][RXJSBadge]][RXJSHome]
+ 
+</div>
 
 
 [blog]: https://rea.ink
