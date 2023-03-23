@@ -1,4 +1,4 @@
-<a href="https://github.com/hellxz">
+<a href="https://github.com/reaink">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
 </a>
 
@@ -6,7 +6,7 @@
 
 ---
 
-- [Rea's Blog](blog)
+- [Rea\'s Blog](https://rea.ink)
 - 清风皓月，光景常新。
 
 ---
@@ -34,8 +34,6 @@
  
 </div>
 
-
-[blog]: https://rea.ink
 [TypeScriptBadge]: https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&labelColor=000
 [TypeScriptHome]: https://www.typescriptlang.org
 [JavaScriptBadge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
