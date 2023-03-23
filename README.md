@@ -13,7 +13,7 @@
 
 <div align="center">
  
-  ![Lang](https://img.shields.io/badge/Lang:-red?style=flat-square)
+  ![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
   [![JS][TypeScriptBadge]][TypeScriptHome]
   [![TS][JavaScriptBadge]][JavaScriptHome]
   [![Node][NodejsBadge]][NodejsHome]
@@ -22,7 +22,7 @@
   [![macOS][macOSBadge]][macOSHome]
   [![rime][rimeBadge]][rimeHome]
 
-  ![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
+  ![Frameworks](https://img.shields.io/badge/Frameworks:-red?style=flat-square)
   [![Vuejs][VuejsBadge]][VuejsHome]
   [![React][ReactBadge]][ReactHome]
   [![Vite][ViteBadge]][ViteHome]
