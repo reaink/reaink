@@ -6,7 +6,7 @@
 
 ---
 
-<a href="https://github.com/reaink">
+<a href="https://github.com/reaink" style="z-index: 500; position: relative;">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
 </a>
 
