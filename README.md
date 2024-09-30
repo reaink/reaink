@@ -1,4 +1,12 @@
 <a href="https://github.com/reaink">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=reaink&column=5&theme=onedark"/>
+  </p>
+</a>
+
+---
+
+<a href="https://github.com/reaink">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
 </a>
 
