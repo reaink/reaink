@@ -1,6 +1,6 @@
 <a href="https://github.com/reaink">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=reaink&column=5&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=reaink&column=5"/>
   </p>
 </a>
 
