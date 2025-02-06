@@ -11,8 +11,8 @@
 
 <a href="https://github.com/reaink" style="z-index: 500; position: relative;">
   <picture>
-    <source srcset="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&theme=onedark&hide_border=true" media="(prefers-color-scheme: dark)">
-    <img align="right" src="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink" alt="streak-stats">
+    <source srcset="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&theme=onedark&card_height=170&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img align="right" src="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&card_height=170" alt="streak-stats">
   </picture>
 </a>
 
