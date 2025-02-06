@@ -1,13 +1,19 @@
 <a href="https://github.com/reaink">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=reaink&column=5"/>
+    <picture>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=reaink&column=5&theme=onedark&no-frame=true&margin-w=5&margin-h=5" media="(prefers-color-scheme: dark)">
+      <img src="https://github-profile-trophy.vercel.app/?username=reaink&column=5&theme=flat&margin-w=5&margin-h=5" alt="profile-trophy">
+    </picture>
   </p>
 </a>
 
 ---
 
 <a href="https://github.com/reaink" style="z-index: 500; position: relative;">
-  <img align="right" src="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&hide_border=true" />
+  <picture>
+    <source srcset="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&theme=onedark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img align="right" src="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink" alt="streak-stats">
+  </picture>
 </a>
 
 ### Hi 👋
