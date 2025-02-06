@@ -7,7 +7,7 @@
 ---
 
 <a href="https://github.com/reaink" style="z-index: 500; position: relative;">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=reaink&mode=weekly" />
+  <img align="right" src="https://github-readme-streak-stats-seven-ashy.vercel.app?user=reaink&hide_border=true" />
 </a>
 
 ### Hi 👋
