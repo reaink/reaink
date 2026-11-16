@@ -18,6 +18,8 @@
 <div align="center">
  
   ![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
+  [![Claude][ClaudeBadge]][ClaudeHome]
+  [![Codex][CodexBadge]][CodexHome]
   [![JS][TypeScriptBadge]][TypeScriptHome]
   [![TS][JavaScriptBadge]][JavaScriptHome]
   [![Node][NodejsBadge]][NodejsHome]
@@ -38,6 +40,10 @@
  
 </div>
 
+[ClaudeBadge]: https://img.shields.io/badge/Claude-D97757?logo=Claude&style=flat-square&labelColor=000
+[ClaudeHome]: https://claude.ai
+[CodexBadge]: https://img.shields.io/badge/Codex-FFFFFF?logo=Codex&style=flat-square&labelColor=000
+[CodexHome]: https://openai.com/codex
 [TypeScriptBadge]: https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&labelColor=000
 [TypeScriptHome]: https://www.typescriptlang.org
 [JavaScriptBadge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
